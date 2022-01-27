@@ -18,7 +18,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/hashicorp/hcl v1.0.0
-	github.com/hashicorp/vault/api v1.3.0
+	github.com/hashicorp/vault/api v1.3.1
 	github.com/imdario/mergo v0.3.12
 	github.com/ipfs/go-cid v0.1.0 // indirect
 	github.com/klauspost/compress v1.14.2 // indirect
